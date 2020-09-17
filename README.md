@@ -55,6 +55,6 @@ Vowels are only defined as . In this problem,  is not considered a vowel.
 
 We are going to solve this by vowel substring hackerrank
 
-
+SOLUTION :
 Here is the working solution for The Minion Game problem in Python 3 language.
 https://www.new951.com/2020/09/Program%20For%20The%20Minion%20Game%20%20In%20Python%20-%20Hacker%20rank%20Solution.html
